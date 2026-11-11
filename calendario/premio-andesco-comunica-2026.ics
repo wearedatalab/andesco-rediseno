@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Andesco//Eventos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:premio-andesco-comunica-2026@andesco.org.co
+DTSTAMP:20261111T120000Z
+DTSTART:20261209T230000Z
+DTEND:20261210T020000Z
+SUMMARY:Ceremonia del Premio Andesco Comunica
+LOCATION:Bogotá
+DESCRIPTION:La primera edición del premio a la excelencia en comunicació
+ n estratégica del sector tiene 19 empresas finalistas.\nMás información
+ : https://andesco.org.co/eventos/premio-andesco-comunica-2026/
+URL:https://andesco.org.co/eventos/premio-andesco-comunica-2026/
+END:VEVENT
+END:VCALENDAR

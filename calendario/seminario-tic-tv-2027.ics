@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Andesco//Eventos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminario-tic-tv-2027@andesco.org.co
+DTSTAMP:20261111T120000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270717
+SUMMARY:Seminario TIC y TV: espectro\, conectividad y contenidos
+LOCATION:Bogotá y en línea
+DESCRIPTION:Subasta de espectro\, despliegue de redes\, televisión y cont
+ enidos: el encuentro de los operadores de TIC y TV.\nMás información: ht
+ tps://andesco.org.co/eventos/seminario-tic-tv-2027/
+URL:https://andesco.org.co/eventos/seminario-tic-tv-2027/
+END:VEVENT
+END:VCALENDAR

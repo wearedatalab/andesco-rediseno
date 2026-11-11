@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Andesco//Eventos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminario-respel-2027@andesco.org.co
+DTSTAMP:20261111T120000Z
+DTSTART:20270610T130000Z
+DTEND:20270610T210000Z
+SUMMARY:Seminario de Residuos Peligrosos (Respel)
+LOCATION:Barranquilla
+DESCRIPTION:Normativa\, transporte\, tratamiento y disposición de residuo
+ s peligrosos\, con el Comité Respel de Andesco.\nMás información: https
+ ://andesco.org.co/eventos/seminario-respel-2027/
+URL:https://andesco.org.co/eventos/seminario-respel-2027/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Andesco//Eventos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminario-gestion-residuos-2026@andesco.org.co
+DTSTAMP:20261111T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+SUMMARY:9.° Seminario de Gestión de Residuos
+LOCATION:Cali\, Valle del Cauca
+DESCRIPTION:Dos días para discutir el futuro de los rellenos sanitarios\,
+  el aprovechamiento con recicladores\, los residuos peligrosos y el uso de
+  datos en la recolección.\nMás información: https://andesco.org.co/even
+ tos/seminario-gestion-residuos-2026/
+URL:https://andesco.org.co/eventos/seminario-gestion-residuos-2026/
+END:VEVENT
+END:VCALENDAR

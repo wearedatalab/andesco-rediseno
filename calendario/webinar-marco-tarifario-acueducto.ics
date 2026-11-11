@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Andesco//Eventos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:webinar-marco-tarifario-acueducto@andesco.org.co
+DTSTAMP:20261111T120000Z
+DTSTART:20261202T150000Z
+DTEND:20261202T163000Z
+SUMMARY:Webinar: qué cambia con el nuevo marco tarifario de acueducto y a
+ lcantarillado
+LOCATION:Transmisión en vivo
+DESCRIPTION:Una hora y media para entender la Resolución CRA 1032 de 2026
+ \, sus efectos en la inversión y en la factura\, y la posición de Andesc
+ o.\nMás información: https://andesco.org.co/eventos/webinar-marco-tarifa
+ rio-acueducto/
+URL:https://andesco.org.co/eventos/webinar-marco-tarifario-acueducto/
+END:VEVENT
+END:VCALENDAR

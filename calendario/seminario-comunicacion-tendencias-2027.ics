@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Andesco//Eventos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminario-comunicacion-tendencias-2027@andesco.org.co
+DTSTAMP:20261111T120000Z
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271023
+SUMMARY:12.° Seminario de Comunicación y Tendencias
+LOCATION:Bogotá
+DESCRIPTION:Confianza\, reputación\, inteligencia artificial y nuevos for
+ matos para los equipos de comunicación del sector.\nMás información: ht
+ tps://andesco.org.co/eventos/seminario-comunicacion-tendencias-2027/
+URL:https://andesco.org.co/eventos/seminario-comunicacion-tendencias-2027/
+END:VEVENT
+END:VCALENDAR

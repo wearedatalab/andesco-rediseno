@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Andesco//Eventos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminario-acueducto-alcantarillado-2027@andesco.org.co
+DTSTAMP:20261111T120000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270522
+SUMMARY:Seminario de Acueducto y Alcantarillado
+LOCATION:Bogotá
+DESCRIPTION:Marco tarifario\, inversión\, seguridad hídrica y saneamient
+ o: el encuentro anual de las empresas de agua.\nMás información: https:/
+ /andesco.org.co/eventos/seminario-acueducto-alcantarillado-2027/
+URL:https://andesco.org.co/eventos/seminario-acueducto-alcantarillado-2027
+ /
+END:VEVENT
+END:VCALENDAR

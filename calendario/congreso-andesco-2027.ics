@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Andesco//Eventos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:congreso-andesco-2027@andesco.org.co
+DTSTAMP:20261111T120000Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270925
+SUMMARY:29.° Congreso Andesco
+LOCATION:Hotel Las Américas\, Cartagena
+DESCRIPTION:Tres días en Cartagena con la conversación más importante d
+ e servicios públicos\, TIC y TV del país.\nMás información: https://an
+ desco.org.co/congreso/
+URL:https://andesco.org.co/congreso/
+END:VEVENT
+END:VCALENDAR

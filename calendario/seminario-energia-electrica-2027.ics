@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Andesco//Eventos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seminario-energia-electrica-2027@andesco.org.co
+DTSTAMP:20261111T120000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270417
+SUMMARY:Seminario de Energía Eléctrica: mercado\, tarifas y expansión
+LOCATION:Medellín
+DESCRIPTION:Expansión de la generación\, subastas\, tarifas y transmisi
+ ón: la agenda eléctrica para 2027 y 2028.\nMás información: https://an
+ desco.org.co/eventos/seminario-energia-electrica-2027/
+URL:https://andesco.org.co/eventos/seminario-energia-electrica-2027/
+END:VEVENT
+END:VCALENDAR
